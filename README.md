@@ -31,10 +31,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
           
 </div>
-
+<br />
 My system is ZorinOS  
+<div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Zorin_OS.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-          
+</div>
+
 ### Contacts:
 
 <div>
