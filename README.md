@@ -51,4 +51,4 @@ My system is ZorinOS
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blandygbc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/blandygbc/blnadygbc/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
