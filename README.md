@@ -46,6 +46,7 @@ My system is ZorinOS
 <a href="https://exercism.org/profiles/blandygbc" target="_blank"><img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" target="_blank"></a>
 <a href="https://www.codewars.com/users/blandygbc" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
 <a href="https://www.hackerrank.com/blandygbc?hr_r=1" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
+<a href="https://leetcode.com/blandygbc/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA628?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
 </div>
 <br/>
 <div>
